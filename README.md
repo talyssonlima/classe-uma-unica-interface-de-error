@@ -1,0 +1,1 @@
+# classe-uma-unica-interface-de-error
