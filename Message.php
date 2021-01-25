@@ -2,8 +2,6 @@
 
 namespace Message;
 
-use Source\Core\Session;
-
 class Message
 {
     private $text;
